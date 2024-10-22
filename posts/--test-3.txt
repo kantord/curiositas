@@ -16,7 +16,7 @@ f:I[1343,[],""]
 5:HL["/_next/static/media/f197db7ee325f928-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 6:HL["/_next/static/media/fe756f924a43c901-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 7:HL["/_next/static/css/df510ffa56d4d13c.css","style"]
-9:T1ac9,
+9:T217a,
     @media (prefers-color-scheme: dark) {
       :root:not([data-theme="light"]) {
         --background: #000000;
@@ -296,7 +296,80 @@ f:I[1343,[],""]
   --background: color-mix(in srgb, var(--gray-100) 50%, var(--gray-200) 50%);
   --foreground: var(--gray-800);
     }
-  0:{"P":null,"b":"bA7gGfEj0YkeNd_WET4dG","p":"","c":["","posts","--test-3"],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","--test-3","d"],{"children":["__PAGE__?{\"slug\":\"--test-3\"}",{}]}]}]},"$undefined","$undefined",true],["",["$","$8","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/df510ffa56d4d13c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"automatic","children":[["$","head",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}],["$","$La",null,{"id":"theme-script","strategy":"beforeInteractive","children":"\n          (function() {\n            const storedTheme = localStorage.getItem('theme') ?? 'automatic';\n            if (storedTheme !== \"automatic\") {\n              document.documentElement.setAttribute('data-theme', storedTheme);\n            }\n          })();\n        "}]]}],["$","body",null,{"className":"__variable_c159bc __variable_6dc65f flex min-h-screen flex-col bg-background text-foreground","children":[["$","header",null,{"className":"flex justify-between bg-gray-100 p-6 pt-10","children":[["$","div",null,{"className":"grow basis-0"}],["$","nav",null,{"className":"flex justify-center","children":["$","$Lb",null,{"href":"/","children":["$","div",null,{"className":"flex flex-col items-center gap-2","children":[["$","$Lc",null,{"width":40,"height":40}],["$","div",null,{"className":"flex items-center gap-2 font-title","children":["$","div",null,{"className":"relative","children":[["$","div",null,{"className":"text-4xl text-red-500 sm:text-5xl","style":{"WebkitTextStroke":"var(--background) 0.5px"},"children":"cūriōsitās"}],["$","div",null,{"aria-hidden":true,"className":"pointer-events-none absolute left-0 top-0 text-4xl text-gray-800 sm:text-5xl","children":"curiositas"}]]}]}]]}]}]}],["$","div",null,{"className":"flex grow basis-0 items-end justify-end","children":["$","$Ld",null,{}]}]]}],["$","main",null,{"className":"grow px-4 py-2 md:py-12","children":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"mt-8 bg-gray-100 px-4 py-6 text-gray-600","children":["$","div",null,{"className":"mx-auto max-w-prose","children":["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","p",null,{"children":"All opinions expressed on this site are my personal opinions and do not reflect the opinions of my employer(s) or any people or organizations I'm associated with."}],["$","p",null,{"children":"The information provided on this site does not constitute legal, financial, medical, or other professional advice and should be treated as opinions."}],["$","p",null,{"children":["© ",2024," ","cūriōsitās"]}]]}]}]}]]}]]}]]}],{"children":["posts",["$","$8","c",{"children":[null,["$","div",null,{"className":"mx-auto max-w-prose py-6","children":["$","article",null,{"className":"prose prose-base lg:prose-lg","children":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}]}]]}],{"children":[["slug","--test-3","d"],["$","$8","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$8","c",{"children":["$L10",null,["$","$L11",null,{"children":"$L12"}]]}],{},null]},null]},null]},null],["$","$8","h",{"children":[null,["$","$8","r_eWsD3UIp0g-V6-vld1j",{"children":[["$","$L13",null,{"children":"$L14"}],["$","$L15",null,{"children":"$L16"}],["$","meta",null,{"name":"next-size-adjust"}]]}]]}]]],"m":"$undefined","G":"$17","s":false,"S":true}
+
+    @media print {
+      :root,
+      :root[data-theme="light"],
+      :root[data-theme="dark"] {
+        --background: #ffffff;
+  --gray-100: #e7e7e7;
+  --gray-200: #d0d0d0;
+  --gray-300: #afafaf;
+  --gray-400: #939393;
+  --gray-500: #7b7a7a;
+  --gray-600: #656464;
+  --gray-700: #50504f;
+  --gray-800: #3c3c3c;
+  --gray-900: #333333;
+  --green-100: #dbecc7;
+  --green-200: #c1d99e;
+  --green-300: #a0b879;
+  --green-400: #869a64;
+  --green-500: #708055;
+  --green-600: #5c6947;
+  --green-700: #4a533b;
+  --green-800: #383e2d;
+  --green-900: #303527;
+  --red-100: #fedfdf;
+  --red-200: #ffc2c2;
+  --red-300: #f89394;
+  --red-400: #da7578;
+  --red-500: #b66163;
+  --red-600: #945152;
+  --red-700: #744242;
+  --red-800: #543333;
+  --red-900: #472c2c;
+  --blue-100: #d2ece8;
+  --blue-200: #aadad4;
+  --blue-300: #7ebbb2;
+  --blue-400: #689c95;
+  --blue-500: #58827d;
+  --blue-600: #4a6a66;
+  --blue-700: #3d5451;
+  --blue-800: #303f3d;
+  --blue-900: #293534;
+  --purple-100: #f8dfea;
+  --purple-200: #f3c4da;
+  --purple-300: #db9ebb;
+  --purple-400: #ba839d;
+  --purple-500: #9b6d83;
+  --purple-600: #7e5a6b;
+  --purple-700: #634855;
+  --purple-800: #49373f;
+  --purple-900: #3e2f36;
+  --orange-100: #ffe1d3;
+  --orange-200: #ffc4a7;
+  --orange-300: #ff935f;
+  --orange-400: #ff5d15;
+  --orange-500: #de4300;
+  --orange-600: #b43a06;
+  --orange-700: #8c3310;
+  --orange-800: #662a13;
+  --orange-900: #552513;
+  --yellow-100: #f9e4b8;
+  --yellow-200: #ebcd92;
+  --yellow-300: #c9ac72;
+  --yellow-400: #a9905f;
+  --yellow-500: #8c7851;
+  --yellow-600: #726244;
+  --yellow-700: #5a4e38;
+  --yellow-800: #433b2c;
+  --yellow-900: #393226;
+  --background: var(--gray-100);
+  --foreground: var(--gray-900);
+      }
+    }
+  0:{"P":null,"b":"uEZ6TjHuw317IOmOMNWkE","p":"","c":["","posts","--test-3"],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","--test-3","d"],{"children":["__PAGE__?{\"slug\":\"--test-3\"}",{}]}]}]},"$undefined","$undefined",true],["",["$","$8","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/df510ffa56d4d13c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"automatic","children":[["$","head",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}],["$","$La",null,{"id":"theme-script","strategy":"beforeInteractive","children":"\n          (function() {\n            const storedTheme = localStorage.getItem('theme') ?? 'automatic';\n            if (storedTheme !== \"automatic\") {\n              document.documentElement.setAttribute('data-theme', storedTheme);\n            }\n          })();\n        "}]]}],["$","body",null,{"className":"__variable_c159bc __variable_6dc65f flex min-h-screen flex-col bg-background text-foreground","children":[["$","header",null,{"className":"flex justify-between bg-gray-100 p-6 pt-10","children":[["$","div",null,{"className":"grow basis-0"}],["$","nav",null,{"className":"flex justify-center","children":["$","$Lb",null,{"href":"/","children":["$","div",null,{"className":"flex flex-col items-center gap-2","children":[["$","$Lc",null,{"width":40,"height":40}],["$","div",null,{"className":"flex items-center gap-2 font-title","children":["$","div",null,{"className":"relative","children":[["$","div",null,{"className":"text-4xl text-red-500 sm:text-5xl","style":{"WebkitTextStroke":"var(--background) 0.5px"},"children":"cūriōsitās"}],["$","div",null,{"aria-hidden":true,"className":"pointer-events-none absolute left-0 top-0 text-4xl text-gray-800 sm:text-5xl","children":"curiositas"}]]}]}]]}]}]}],["$","div",null,{"className":"flex grow basis-0 items-end justify-end","children":["$","$Ld",null,{}]}]]}],["$","main",null,{"className":"grow px-4 py-2 md:py-12","children":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"mt-8 bg-gray-100 px-4 py-6 text-gray-600","children":["$","div",null,{"className":"mx-auto max-w-prose","children":["$","div",null,{"className":"flex flex-col gap-2 text-sm","children":[["$","p",null,{"children":"All opinions expressed on this site are my personal opinions and do not reflect the opinions of my employer(s) or any people or organizations I'm associated with."}],["$","p",null,{"children":"The information provided on this site does not constitute legal, financial, medical, or other professional advice and should be treated as opinions."}],["$","p",null,{"children":["© ",2024," ","cūriōsitās"]}]]}]}]}]]}]]}]]}],{"children":["posts",["$","$8","c",{"children":[null,["$","div",null,{"className":"mx-auto max-w-prose py-6","children":["$","article",null,{"className":"prose prose-base lg:prose-lg","children":["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]}]}]]}],{"children":[["slug","--test-3","d"],["$","$8","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$8","c",{"children":["$L10",null,["$","$L11",null,{"children":"$L12"}]]}],{},null]},null]},null]},null],["$","$8","h",{"children":[null,["$","$8","qnfGoM4OC_QtdHHY9NbOa",{"children":[["$","$L13",null,{"children":"$L14"}],["$","$L15",null,{"children":"$L16"}],["$","meta",null,{"name":"next-size-adjust"}]]}]]}]]],"m":"$undefined","G":"$17","s":false,"S":true}
 10:[["$","h1",null,{"className":"text-3xl","children":"Test citations mid-paragraph"}],[["$","p",null,{"children":[["$","$8",".0",{"children":["This is the first sentence.",["$","sup","28",{"className":"not-prose mx-px text-sm","children":["$","$Lb",null,{"href":"#citation-SzabadsagunkMegVan2023","className":"text-gray-300 no-underline transition-colors hover:text-gray-700","children":["[",["$","span",null,{"className":"mx-[2px] text-red-500","children":1}],"]"]}]}]," ","This is the second sentence. Here's another citation",["$","sup","105",{"className":"not-prose mx-px text-sm","children":["$","$Lb",null,{"href":"#citation-werningriveraIntroductionNewDirections2019","className":"text-gray-300 no-underline transition-colors hover:text-gray-700","children":["[",["$","span",null,{"className":"mx-[2px] text-red-500","children":2}],"]"]}]}]," ","at the end."]}]]}],"$L18"]]
 16:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 14:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Test citations mid-paragraph - cūriōsitās"}],["$","meta","2",{"name":"description","content":"My personal blog for the post-blog era"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
